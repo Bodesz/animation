@@ -1,3 +1,6 @@
 <h1>What's this?</h1>
 
-logo javascript animation
+<p>Logo javascript animation</p>
+
+
+<h1>What is included</h1>
